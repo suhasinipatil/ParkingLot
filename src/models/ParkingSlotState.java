@@ -1,6 +1,6 @@
-package Models;
+package models;
 
-public enum SlotState {
+public enum ParkingSlotState {
     OCCUPIED,
     UNOCCUPIED,
     UNDERMAINTENCE,

@@ -1,6 +1,6 @@
-package Models;
+package models;
 
-public enum Mode {
+public enum PaymentMode {
     UPI,
     CREDITCARD,
     DEBITCARD,

@@ -1,6 +1,6 @@
-package Strategies;
+package strategies;
 
-import Models.Ticket;
+import models.Ticket;
 
 public interface BillingStrategy {
     int CalculateFees(Ticket ticket);
